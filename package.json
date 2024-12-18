@@ -1,0 +1,23 @@
+{
+  "name": "discord-roblox-verify-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.0.0"
+  },
+  "keywords": [],
+  "author": "zachariapopcorn#8105",
+  "license": "MIT",
+  "dependencies": {
+    "@keyv/sqlite": "^2.0.2",
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "keyv": "^4.0.1",
+    "noblox.js": "^4.7.2",
+    "got": "^11.8.1"
+  }
+}
